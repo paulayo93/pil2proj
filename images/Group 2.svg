@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="151" viewBox="0 0 126 151">
+  <defs>
+    <filter id="Ellipse_4" x="0" y="0" width="126" height="129" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_12" x="38.401" y="31.401" width="49.198" height="53.198" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-401 -106)">
+    <g transform="matrix(1, 0, 0, 1, 401, 106)" filter="url(#Ellipse_4)">
+      <g id="Ellipse_4-2" data-name="Ellipse 4" transform="translate(6)" fill="#fff" stroke="#707070" stroke-width="4" stroke-dasharray="1" opacity="0.4">
+        <circle cx="57" cy="57" r="57" stroke="none"/>
+        <circle cx="57" cy="57" r="55" fill="none"/>
+      </g>
+    </g>
+    <text id="Power_Outlet" data-name="Power Outlet" transform="translate(416 253)" fill="#2e2a2a" font-size="16" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Power Outlet</tspan></text>
+    <g id="play_circle_filled-24px" transform="translate(434.481 132.481)">
+      <path id="Path_11" data-name="Path 11" d="M0,0H59.038V59.038H0Z" fill="none"/>
+      <g transform="matrix(1, 0, 0, 1, -33.48, -26.48)" filter="url(#Path_12)">
+        <path id="Path_12-2" data-name="Path 12" d="M26.6,2A24.6,24.6,0,1,0,51.2,26.6,24.608,24.608,0,0,0,26.6,2Zm-4.92,35.669V15.529L36.439,26.6Z" transform="translate(36.4 29.4)" fill="#08135f"/>
+      </g>
+    </g>
+  </g>
+</svg>
