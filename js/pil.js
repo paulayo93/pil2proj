@@ -24,6 +24,7 @@ let travelOpts = {
   $('#travto').select2();
   $('#numpassenger').select2();
   $('#seatnum').select2();
+  $('#pickuploc').select2();
 
   $('#deptdate').datetimepicker({
     format: 'll'
