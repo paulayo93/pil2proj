@@ -44,10 +44,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../wizdm" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.pil2.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pil2proj/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="pil2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pil2proj/pil2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -56,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.pil2.html" />
         <item itemvalue="JavaScript Debug.tab.html" />
       </list>
@@ -71,6 +76,8 @@
       <updated>1601451433343</updated>
       <workItem from="1601451434904" duration="29048000" />
       <workItem from="1601647182905" duration="440000" />
+      <workItem from="1601892766685" duration="10000" />
+      <workItem from="1601892839146" duration="135000" />
     </task>
     <servers />
   </component>
@@ -87,6 +94,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601451658756">
